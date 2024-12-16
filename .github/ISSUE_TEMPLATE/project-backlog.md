@@ -12,8 +12,8 @@ assignees: ''
 
 ## Tasks
 
-- [] Item
-- [] Item
+- [ ] Item
+- [ ] Item
 
 ## References
 -[link text] (link url)
